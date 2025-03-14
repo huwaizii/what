@@ -1,2 +1,2 @@
-# what
-who is me?
+#Hey there !
+just a starter in development don't expect anything fancy...
